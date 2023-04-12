@@ -1,7 +1,9 @@
-create-svelte
+# create-svelte
+
 Everything you need to build a Svelte project, powered by create-svelte;
 
-Creating a project
+# Creating a project
+
 If you're seeing this, you've probably already done this step. Congrats!
 
 # create a new project in the current directory
